@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Smart Property Image & Experience Platform
 
 Full-stack luxury real estate listings with **async AI image analysis** (room type, features, quality score, improvement tips), **auto cover image** selection, **tags** for search, and a **premium React** UI.
@@ -114,4 +113,3 @@ npm run dev
 =======
 # Smart-Property-Image-Experience-Platform
 Full-stack MERN real estate platform with AI-powered image analysis, automated cover image selection, async processing, and premium React UI.
->>>>>>> d87dc79b4bdbeaa510124a648ae1c124f13de468
