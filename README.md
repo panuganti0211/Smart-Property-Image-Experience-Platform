@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Smart Property Image & Experience Platform
 
 Full-stack luxury real estate listings with **async AI image analysis** (room type, features, quality score, improvement tips), **auto cover image** selection, **tags** for search, and a **premium React** UI.
@@ -110,3 +111,7 @@ npm run dev
 | AI approach | Async pipeline in `propertyController.js`, Gemini in `aiService.js` |
 | Edge cases | Quota/parse failures, `failed` + retry UI, resume pending on startup |
 | Clarity | This README + inline logging in controller for uploads/analysis |
+=======
+# Smart-Property-Image-Experience-Platform
+Full-stack MERN real estate platform with AI-powered image analysis, automated cover image selection, async processing, and premium React UI.
+>>>>>>> d87dc79b4bdbeaa510124a648ae1c124f13de468
